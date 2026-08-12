@@ -1,5 +1,8 @@
 # ISO 27001 Implementation (ISMS)
 
+📋 Document Owner: Lahiru Dharmarathna | 📄 Version: 1.1 | 📅 Last Updated: 2026-08-12 (UTC)
+🔄 Review Cycle: Quarterly | ⏰ Next Review: 2026-11-12
+
 ## Overview
 
 This repository demonstrates my knowledge and practical experience in implementing and supporting information security controls aligned with ISO/IEC 27001 requirements.
