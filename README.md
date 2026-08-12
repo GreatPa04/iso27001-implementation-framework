@@ -35,12 +35,11 @@ Conducting ISO 27001 Controls? Start here:
 
 1. Framework Compliance Evidence
 - 📋 Compliance Checklist — Complete ISO 27001 control mappings with evidence
-- ✅ ISO 27001 Annex A Controls — 100% control implementation status
+- 📋 ISO 27001 Annex A Controls — 100% control implementation status
 
 2. Security Architecture & Controls
--🔐 Information Security Strategy — Strategic security framework and governance
--🏗️ Security Architecture — Technical control implementation
--🔒 Cryptography Policy — Encryption standards and key management
+- 📋Information Security Strategy — Strategic security framework and governance
+- 📋Security Architecture — Technical control implementation
 
 4. Risk Management & Business Continuity
 -📉 Risk Register — Comprehensive risk inventory with treatments
