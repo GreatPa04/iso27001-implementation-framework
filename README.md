@@ -39,12 +39,14 @@ Conducting ISO 27001 Controls? Start here:
 
 2. Security Architecture & Controls
 - 📋Information Security Strategy — Strategic security framework and governance
-- 📋Security Architecture — Technical control implementation
+- 📋Security Architecture — Technical control implementation 
+- 📋Cryptography Policy — Encryption standards and key management
 
-4. Risk Management & Business Continuity
--📉 Risk Register — Comprehensive risk inventory with treatments
--📊 Risk Assessment Methodology — Systematic risk scoring framework
--🔄 Business Continuity Plan — Resilience and recovery procedures
+3. Risk Management & Business Continuity
+
+- 📋Risk Assessment Methodology — Systematic risk scoring framework
+- 📋 Risk Register — Comprehensive risk register with treatments 
+- 📋Business Continuity Plan and recovery strategies — Resilience and recovery procedures
 
 6. Operational Security
 -🚨 Incident Response Plan — Security incident handling procedures
