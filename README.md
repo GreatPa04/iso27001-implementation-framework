@@ -6,26 +6,8 @@ This repository demonstrates my knowledge and practical experience in implementi
 
 The repository contains examples of Information Security Management System (ISMS) documentation, risk assessment methodologies, security policies, audit preparation materials, and compliance-related artifacts commonly used within ISO 27001 programs.
 
-┌───────────────────────────────┐
-│      ISMS Framework           │
-│      Strategic Layer          │
-└──────────────┬────────────────┘
-               │
-   ┌───────────┼───────────┐
-   ▼           ▼           ▼
+<img width="1024" height="1536" alt="Designer" src="https://github.com/user-attachments/assets/39e38b21-07c5-46cc-abf1-0693f298e334" />
 
-┌─────────┐ ┌─────────┐ ┌─────────┐
-│Technical│ │Operation│ │Governance│
-│Security │ │Security │ │Controls │
-└─────────┘ └─────────┘ └─────────┘
-
-               │
-               ▼
-
-       ┌─────────────┐
-       │ Supporting  │
-       │ Documents   │
-       └─────────────┘
 
 ## Key Areas Covered
 
