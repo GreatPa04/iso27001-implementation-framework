@@ -1,4 +1,4 @@
-# ISO 27001 Implementation Framework
+# ISO 27001 Implementation (ISMS)
 
 ## Overview
 
@@ -9,34 +9,34 @@ The repository contains examples of Information Security Management System (ISMS
 ## Key Areas Covered
 
 - Information Security Management System (ISMS)
-
 - Security Governance
-
 - Information Security Risk Assessment
-
 - Risk Treatment Planning
-
 - Security Policies and Standards
-
 - Internal Audit Support
-
 - Statement of Applicability (SoA)
-
 - Access Control Governance
-
 - Vulnerability Management
-
 - Security Awareness
-
 - Continuous Improvement
 
 ## Key Takeaways
-🎯 Strategic Level: Defines overarching security vision, governance framework, and impact classification methodology
+
 📋 Governance: Establishes risk management, compliance tracking, metrics, and transparency commitments
 ⚙️ Operational: Implements day-to-day security operations including access control, incident response, and business continuity
 🛠️ Technical: Specifies technical security controls for development, cryptography, network, vulnerability, and data protection
 📖 Support: Provides quality assurance, documentation standards, templates, and asset tracking
-
+- 🎯 Strategic Level: Defines overarching security vision, governance framework, and impact classification methodology
+- Security Governance
+- Information Security Risk Assessment
+- Risk Treatment Planning
+- Security Policies and Standards
+- Internal Audit Support
+- Statement of Applicability (SoA)
+- Access Control Governance
+- Vulnerability Management
+- Security Awareness
+- Continuous Improvement
 ## Repository Structure
 
 ```text
