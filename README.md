@@ -55,8 +55,8 @@ Conducting ISO 27001 Controls? Start here:
 
 
 8. Real-Time Security Metrics
--📊 Security Metrics Dashboard — Live KPI tracking and Phase 1 achievements
--📊 ISMS Metrics Dashboard — Policy review status and document health
+- 📋Security Metrics Dashboard
+- 📋ISMS Metrics Dashboard — Policy review status and document health
 
 ## Repository Structure
 
