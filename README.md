@@ -31,27 +31,30 @@ The repository contains examples of Information Security Management System (ISMS
 - 📖 Support: Provides quality assurance, documentation standards, templates, and asset tracking
 
 ## 🏛️ Quick Start 
-Conducting ISO 27001 NIST CSF, or CIS Controls? Start here:
+Conducting ISO 27001 Controls? Start here:
 
 1. Framework Compliance Evidence
-📋 Compliance Checklist — Complete ISO 27001, NIST CSF, CIS Controls mappings with evidence links
-✅ ISO 27001 Annex A Controls — 100% control implementation status
-📊 OpenSSF Scorecard Mapping — Supply chain security evidence
+- 📋 Compliance Checklist — Complete ISO 27001 control mappings with evidence
+- ✅ ISO 27001 Annex A Controls — 100% control implementation status
+
 2. Security Architecture & Controls
-🔐 Information Security Strategy — Strategic security framework and governance
-🏗️ Security Architecture — Technical control implementation
-🔒 Cryptography Policy — Encryption standards and key management
-3. Risk Management & Business Continuity
-📉 Risk Register — Comprehensive risk inventory with treatments
-📊 Risk Assessment Methodology — Systematic risk scoring framework
-🔄 Business Continuity Plan — Resilience and recovery procedures
-4. Operational Security
-🚨 Incident Response Plan — Security incident handling procedures
-🔍 Vulnerability Management — Vulnerability lifecycle management
-🛠️ Secure Development Policy — DevSecOps pipeline and SDLC security
-5. Real-Time Security Metrics
-📊 Security Metrics Dashboard — Live KPI tracking and Phase 1 achievements
-📊 ISMS Metrics Dashboard — Policy review status and document health
+-🔐 Information Security Strategy — Strategic security framework and governance
+-🏗️ Security Architecture — Technical control implementation
+-🔒 Cryptography Policy — Encryption standards and key management
+
+4. Risk Management & Business Continuity
+-📉 Risk Register — Comprehensive risk inventory with treatments
+-📊 Risk Assessment Methodology — Systematic risk scoring framework
+-🔄 Business Continuity Plan — Resilience and recovery procedures
+
+6. Operational Security
+-🚨 Incident Response Plan — Security incident handling procedures
+-🔍 Vulnerability Management — Vulnerability lifecycle management
+-🛠️ Secure Development Policy — SDLC and security practices
+
+8. Real-Time Security Metrics
+-📊 Security Metrics Dashboard — Live KPI tracking and Phase 1 achievements
+-📊 ISMS Metrics Dashboard — Policy review status and document health
 
 ## Repository Structure
 
