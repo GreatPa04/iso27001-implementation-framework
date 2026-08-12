@@ -49,9 +49,10 @@ Conducting ISO 27001 Controls? Start here:
 - 📋Business Continuity Plan and recovery strategies — Resilience and recovery procedures
 
 6. Operational Security
--🚨 Incident Response Plan — Security incident handling procedures
--🔍 Vulnerability Management — Vulnerability lifecycle management
--🛠️ Secure Development Policy — SDLC and security practices
+- 📋Incident Management Procedure — Security incident handling and response procedures
+- 📋 Vulnerability Management — Vulnerability lifecycle management
+- 📋Secure Software Development Policy — SDLC and security practices with evil user stories
+
 
 8. Real-Time Security Metrics
 -📊 Security Metrics Dashboard — Live KPI tracking and Phase 1 achievements
