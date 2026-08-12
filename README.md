@@ -6,24 +6,37 @@ This repository demonstrates my knowledge and practical experience in implementi
 
 The repository contains examples of Information Security Management System (ISMS) documentation, risk assessment methodologies, security policies, audit preparation materials, and compliance-related artifacts commonly used within ISO 27001 programs.
 
-┌─────────────────────────────────────────────────────────────┐
-│                     ISMS DOCUMENTATION                      │
-└─────────────────────────────────────────────────────────────┘
+```mermaid
+flowchart TB
 
- ┌──────────────────┐ ┌──────────────────┐ ┌──────────────────┐
- │ Technical        │ │ Operational      │ │ Governance       │
- │ Security         │ │ Security         │ │ & Compliance     │
- ├──────────────────┤ ├──────────────────┤ ├──────────────────┤
- │ Access Control   │ │ Incident Mgmt    │ │ Risk Management  │
- │ Network Security │ │ Change Mgmt      │ │ Audits           │
- │ Vulnerability Mgmt│ │ Backup & DR     │ │ Policies         │
- │ Asset Security   │ │ Monitoring       │ │ Reporting        │
- └──────────────────┘ └──────────────────┘ └──────────────────┘
+A[ISMS Governance Layer]
 
-                    ┌──────────────────┐
-                    │ Continuous       │
-                    │ Improvement      │
-                    └──────────────────┘
+A --> B[Information Security Management]
+A --> C[Risk Management]
+A --> D[Compliance & Audit]
+
+B --> E[Technical Security]
+B --> F[Operational Security]
+B --> G[Physical Security]
+
+E --> E1[Access Control]
+E --> E2[Network Security]
+E --> E3[Vulnerability Management]
+
+F --> F1[Change Management]
+F --> F2[Incident Response]
+F --> F3[Business Continuity]
+
+G --> G1[Physical Access]
+G --> G2[Environmental Controls]
+
+C --> H[Risk Assessment]
+C --> I[Risk Treatment]
+
+D --> J[Monitoring & Reporting]
+D --> K[Internal Audit]
+D --> L[Management Review]
+```
 
 ## Key Areas Covered
 
